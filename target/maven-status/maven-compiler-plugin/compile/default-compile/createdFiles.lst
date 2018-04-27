@@ -1,9 +1,0 @@
-com\lhp\md5modifier\ImageFileModifier.class
-com\lhp\md5modifier\Md5Util.class
-com\lhp\md5modifier\FileModifier.class
-com\lhp\md5modifier\ImageAppendContent.class
-com\lhp\md5modifier\AndroidManifestModifier.class
-com\lhp\md5modifier\Application.class
-com\lhp\md5modifier\FileUtil.class
-com\lhp\md5modifier\AppendContentBuilder.class
-com\lhp\md5modifier\XmlUtil.class
